@@ -1,0 +1,17 @@
+{
+  "name": "express-proxy",
+  "version": "0.0.0",
+  "description": "End to end server route tracking for express.js applications",
+  "main": "./expressive.js",
+  "directories": {
+    "example": "examples"
+  },
+  "author": "Venogram",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "json-loader": "^0.5.4",
+    "on-finished": "^2.3.0",
+    "request": "^2.81.0",
+  }
+}
